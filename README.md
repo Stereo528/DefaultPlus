@@ -6,7 +6,7 @@ Low end Minecraft Shader, that most anyone can run.
 # Shader FAQ
 
 ### Q: Open Source?
-A: Possibly once V2 releases.
+A: Once I rewrite my shader, which will be quite a while seeing as I'm currently very busy.
 
 
 ### Q: Will you add [X]?
